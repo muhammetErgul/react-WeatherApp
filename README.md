@@ -1,3 +1,1 @@
-# React Weather App
-
-![weatherApp](/src/assets/weatherApp.png)
+#React Weather App
